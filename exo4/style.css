@@ -1,0 +1,122 @@
+body{
+    background-color: #D74949;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    margin: 0;
+    padding: 0;
+}
+
+section{
+    display: flex;
+    text-align: center;
+    background-color: #F3F3F3;
+    margin: auto;
+    margin-top: 0px;
+    width: 1110px;
+    height: 615px;
+}
+
+footer{
+    display: flex;
+    background-color: #3A3A3A;
+    width: 100vw;
+    height: 70px;
+    margin: 0;
+    color: #F3F3F3;
+    font-weight: 700;
+    justify-content: center;
+    align-items: center;
+}
+
+.maboite1 {
+    background-color: #D9D9D9;
+    width: 49px;
+    height: 2px;
+    margin-top: 106px;
+}
+
+.maboite2{
+    margin-top: 96px;
+    width: 100px;
+}
+
+.maboite2 h1{
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 0px;
+}
+
+.maboite3{
+    display: block;
+    width: 1000px;
+}
+.maboite3 h2 {
+    font-weight: 800;
+    font-size: 16px;
+    letter-spacing: 0.07em;
+    width: 1000px;
+    text-align: right;
+}
+
+.maboite3 p {
+    font-weight: bold;
+}
+
+.maboite3 p span{
+    color: #8F2727;
+}
+
+.maboite4 {
+    display: block;
+    background-color: white;
+    width: 200px;
+    height: 300px;
+    margin-top: 109px;
+    margin-left: 100px;
+    border-radius: 15px;
+}
+
+.maboite4 [alt="John Doe profil picture"]{
+    height: 185px;
+}
+
+.maboite4 [alt="linkedin logo"] {
+    float: left;
+    padding-left: 20px;
+    padding-top: 10px;
+}
+
+.maboite4 [alt="whatsapp logo"] {
+    float: left;
+    padding-left: 8px;
+    padding-top: 10px;
+}
+
+.maboite4 h3 {
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 16.41px;
+    letter-spacing: 0.04em;
+    text-align: left;
+    padding-left: 20px;
+    margin-top: 20px;
+    margin-bottom: 3px;
+}
+
+.maboite4 p {
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 16.41px;
+    text-align: left;
+    padding-left: 20px;
+    margin: 0;
+}
+
+.maboite5 {
+    width: 54px;
+    height: 54px;
+    background-color: #D9D9D9;
+    margin-top: 27px;
+    margin-left: 153px;
+    border-radius: 50%;
+}
